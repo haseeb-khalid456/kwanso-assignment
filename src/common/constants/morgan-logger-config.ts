@@ -1,0 +1,1 @@
+export const morganConfig = ':remote-addr - :remote-user [:date] ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ":user-agent" \n body: :body \n';
