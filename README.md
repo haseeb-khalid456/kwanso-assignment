@@ -48,7 +48,7 @@ $ yarn migration:run
 ```bash
 
 #development watch mode
-$ yarn run start:dev
+$ yarn start:dev
 ```
 
 ## Support
